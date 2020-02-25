@@ -1,1 +1,1 @@
-# berkadia_week2_nodejs
+# berkadia_week2_angularjs
